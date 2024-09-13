@@ -1,0 +1,24 @@
+body{
+    color:black;
+    font-family: 'Roboto', sans-serif;
+}
+#navbar{
+    background-color: #5e0707;
+    height: 7rem;
+    width: 100%;
+}
+#Brooklyn_Entregas{
+    font-size: 30pt;
+    padding-left: 15rem;
+    padding-bottom: 1rem;
+}
+.botao{
+    padding-left: 15rem;
+    color: white;
+}
+
+#center{
+    display: grid;
+    grid-template-columns: 2fr 1fr 2fr;
+    font-size: sans-serif 32;
+}

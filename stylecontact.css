@@ -1,0 +1,32 @@
+body{
+    color:black;
+    font-family: 'Roboto', sans-serif;
+}
+#navbar{
+    background-color: #5e0707;
+    height: 7rem;
+    width: 100%;
+}
+#Brooklyn_Entregas{
+    font-size: 30pt;
+    padding-left: 15rem;
+    padding-bottom: 1rem;
+}
+.botao{
+    padding-left: 15rem;
+    color: white;
+}
+#boas_vindas{
+    padding-left: 18%;
+    padding-top: 20%;
+    font-size: 5rem;
+    font-style: bold;
+    z-index: 1;
+}
+#imagem_central{
+    z-index: 0;
+}
+#center{
+    display: grid;
+    grid-template-columns: 2fr, 1fr, 2fr;
+}
